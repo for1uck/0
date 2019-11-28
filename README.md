@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-高佣联盟下载链接：https://url.cn/572GH26
+高佣联盟下载链接：(https://url.cn/572GH26)
 邀请码：19756265
 
 ### Markdown
