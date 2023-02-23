@@ -1,0 +1,4 @@
+
+潍坊高新,rtmp://wslivealone.iqilu.com/weifhang/weifhang_tv01
+昌邑新闻综合,rtmp://wslivealone.iqilu.com/changyi/changyi_tv01
+昌邑经济生活,rtmp://wslivealone.iqilu.com/changyi/changyi_tv02
