@@ -1,1 +1,2 @@
-CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
+大愛一臺,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛二臺,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
