@@ -1,4 +1,1 @@
-
-潍坊高新,rtmp://wslivealone.iqilu.com/weifhang/weifhang_tv01
-昌邑新闻综合,rtmp://wslivealone.iqilu.com/changyi/changyi_tv01
-昌邑经济生活,rtmp://wslivealone.iqilu.com/changyi/changyi_tv02
+昌邑,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001083/index.m3u8?IASHttpSessionId=OTT
