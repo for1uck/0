@@ -65,7 +65,9 @@ CCTV风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/i
 CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
 CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
 CCTV高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
+CGTN,http://39.134.144.6:8089/PLTV/88888888/224/3221226320/index.m3u8
 CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
+CGTN纪录,http://39.134.144.6:8089/PLTV/88888888/224/3221226401/index.m3u8
 
 卫视,#genre#
 东南卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226278/index.m3u8
