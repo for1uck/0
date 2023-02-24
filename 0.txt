@@ -66,12 +66,12 @@ CCTV17,http://39.134.144.6:8089/PLTV/88888888/224/3221226093/index.m3u8
 
 港台,#genre#
 凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
-凤凰中文,http://hkss3.phoenixtv.com/fs/pcc.stream/.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://223.110.245.138/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+凤凰中文2,http://hkss3.phoenixtv.com/fs/pcc.stream/.m3u8
+凤凰中文3,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文4,http://223.110.245.138/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://hkss3.phoenixtv.com/fs/pic.stream/.m3u8
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
+凤凰资讯2,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯3,http://hkss3.phoenixtv.com/fs/pic.stream/.m3u8
+凤凰资讯4,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
 大愛一臺,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛二臺,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
