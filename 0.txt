@@ -1,9 +1,11 @@
 测试,#genre#
-信号测试1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
-信号测试2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
+爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+SiTV欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+信号测试1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
+信号测试2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
 
 央视,#genre#
 CCTV1,http://39.134.144.6:8089/PLTV/88888888/224/3221225859/index.m3u8
@@ -12,8 +14,13 @@ CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226583/index.m3u8
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://39.134.144.6:8089/PLTV/88888888/224/3221225751/index.m3u8
+CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV3,http://39.134.144.6:8089/PLTV/88888888/224/3221226338/index.m3u8
+CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV4,http://39.134.144.6:8089/PLTV/88888888/224/3221225757/index.m3u8
+CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
 CCTV4欧洲,http://39.134.144.6:8089/PLTV/88888888/224/3221226318/index.m3u8
 CCTV4美洲,http://39.134.144.6:8089/PLTV/88888888/224/3221226395/index.m3u8
 CCTV5,http://39.134.144.6:8089/PLTV/88888888/224/3221226497/index.m3u8
