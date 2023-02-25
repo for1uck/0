@@ -37,12 +37,10 @@ CCTV风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/i
 CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
 CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
 CCTV高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
-CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 
 山东,#genre#
 山东卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226144/index.m3u8
 山东卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226495/index.m3u8
-山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 山东体育,http://39.134.144.6:8089/PLTV/88888888/224/3221226075/index.m3u8
 山东新闻,http://39.134.144.6:8089/PLTV/88888888/224/3221226077/index.m3u8
 山东农科,http://39.134.144.6:8089/PLTV/88888888/224/3221226018/index.m3u8
