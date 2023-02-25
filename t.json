@@ -1,0 +1,10 @@
+{"lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/for1uck/1/master/1.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    "boot": true
+    }
+    ]
+}
