@@ -1,8 +1,18 @@
 
 {
-    "sites": [ 
+    "sites": [      
         {
-            "key": "Kunyu77",
+            "key": "csp_Xinsj",
+            "name": "新视觉",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.6080dy2.com"
+        },
+        {
+            "key": "csp_Kunyu77",
             "name": "鲲鱼77",
             "type": 3,
             "api": "csp_Kunyu77",
@@ -29,15 +39,15 @@
             "filterable": 1,
             "ext": "https://gst163.github.io/s/nongminyingshi.json"
         }, 
-        {
-            "key": "csp_AppTT",
-            "name": "图图",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://154.39.64.151:3311/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="
+        {   
+            "key":"csp_AppTT",
+            "name":"图图",
+            "type":3,
+            "api":"csp_AppTT",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"tv$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
         },
         {
             "key": "csp_Czsapp",
@@ -50,6 +60,15 @@
             "filterable": 1
         }, 
         {
+            "key": "csp_AppMr",
+            "name": "Mr",
+            "type": 3,
+            "api": "csp_AppMr",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_DiDuan",
             "name": "低端",
             "type": 3,
@@ -57,6 +76,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
+        },
+        {
+            "key": "csp_Voflix",
+            "name": "Voflix",
+            "type": 3,
+            "api": "csp_Voflix",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_Bttoo",
@@ -79,7 +107,17 @@
             "ext": "https://api-tx.shumaxc.xyz"
         },
         {
-            "key": "csp_BuLei",
+            "key": "csp_555",
+            "name": "555影视",
+            "type": 3,
+            "api": "csp_Ys555",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.555dyy1.com"
+        },
+        {
+            "key": "BuLei",
             "name": "布雷",
             "type": 3,
             "api": "csp_BuLei",
@@ -89,15 +127,23 @@
             "ext": "https://www.bulei.cc"
         },
         {
-            "key": "csp_555",
-            "name": "555",
+            "key": "csp_Zxzj",
+            "name": "在线之家",
             "type": 3,
-            "api": "csp_Ys555",
+            "api": "csp_Zxzj",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.555dyy1.com"
+            "filterable": 1
         },
+        {
+            "key": "csp_Auete",
+            "name": "Auete",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },     
         {
             "key": "csp_Yht",
             "name": "Yht",
@@ -109,16 +155,6 @@
             "ext": "https://yehetang.cc"
         },
         {
-            "key": "csp_Slsp",
-            "name": "石榴",
-            "type": 3,
-            "api": "csp_Slsp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://cdn.饭太硬.ga/x/json/石榴.json"
-        },
-        {
             "key": "csp_fantuan",
             "name": "饭团",
             "type": 3,
@@ -127,17 +163,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.fantuanhd.com"
-        },
-        {
-            "key": "csp_Xinsj",
-            "name": "新视觉",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.6080dy2.com"
-        },
+        },       
         {
             "key": "csp_Ysgc",
             "name": "影视工厂",
@@ -158,34 +184,6 @@
             "filterable": 1,
             "ext": "https://libvio.me"
         },
-        {
-            "key": "csp_Lgyy",
-            "name": "蓝光影院",
-            "type": 3,
-            "api": "csp_Lgyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.lgyy.tv"
-        },
-        {
-            "key": "csp_Vofl",
-            "name": "Voflix",
-            "type": 3,
-            "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Auete",
-            "name": "Auete",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },     
         {
             "key": "csp_panghu",
             "name": "胖虎",
@@ -209,15 +207,6 @@
             "name": "Cokemv",
             "type": 3,
             "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Smdyy",
-            "name": "神马电影院",
-            "type": 3,
-            "api": "csp_Smdyy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -413,7 +402,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://for1uck.github.io/l/1.txt",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/for1uck/l/master/1.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],
@@ -429,19 +418,33 @@
             "url": "Web"
         },
         {
-            "name": "love",
-            "type": 1,
-            "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v="
+		"name": "blbo",
+		"type": 1,
+		"url": "https://vip.blbo.cc:2222/api/?key=9f230d947680de53b544be747efa8e54&url=",
+		"ext": {
+			"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]
+		}  
+	    },
+        {
+            "name":"tkys",
+            "type":1,
+            "url":"http://www.pandown.pro/app/tkys/tkysjx.php?url=",
+            "ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}
         },
         {
-            "name": "tkys",
+            "name": "lanlan",
             "type": 1,
-            "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url="
+            "url": "http://lanlan.ckflv.cn/?url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "Dart/2.14(dart:io)"
+                }
+            }
         },
         {
-            "name": "33",
+            "name": "art1",
             "type": 1,
-            "url": "https://jiexi.parses.repl.co/api.php?url="
+            "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="
         },
         {
       "name": "xmflv",
@@ -469,40 +472,7 @@
           "哔哩"
         ]
       }
-    },
-    {
-      "name": "ckmov",
-      "type": 0,
-      "url": "https://www.ckmov.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-        {
-        "name": "777",
-        "type": 0,
-        "url": "https://jx.777jiexi.com/player/?url="
-        },
-        {"name":"lanlan","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
+    }
     ],
     "flags":[
 "youku",
@@ -759,5 +729,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;eb433f3b00e991e6ba6509cffc99672c"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/for1uck/l/master/cc.jar;md5;c7a548f950e99c50a3465918f2aab475"
 }
