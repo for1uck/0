@@ -37,6 +37,9 @@ CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
 高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
 CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
+CGTN纪录 8M1080,http://39.134.144.6:8089/PLTV/88888888/224/3221226401/index.m3u
+中国教育1,http://39.134.144.6:8089/PLTV/88888888/224/3221226252/index.m3u8
+中国交通,http://39.134.144.6:8089/PLTV/88888888/224/3221226295/index.m3u8
 
 山东,#genre#
 山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
