@@ -71,10 +71,10 @@ CGTN,http://39.134.144.6:8089/PLTV/88888888/224/3221226320/index.m3u8
 山东综艺,http://39.134.144.6:8089/PLTV/88888888/224/3221225855/index.m3u8
 山东齐鲁,http://39.134.144.6:8089/PLTV/88888888/224/3221226045/index.m3u8
 山东教育卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226049/index.m3u8
-潍坊新闻综合,http://stream1.wfcmw.cn/15/playlist.m3u8?_upt=b6afa3181679829807
-潍坊经济生活,http://stream1.wfcmw.cn/17/playlist.m3u8?_upt=3355afd01679830276
-潍坊影视综艺,http://stream1.wfcmw.cn/13/playlist.m3u8?_upt=4ff57cf91679830314
-潍坊科教文旅,http://stream1.wfcmw.cn/14/playlist.m3u8?_upt=2409262b1679830386
+潍坊新闻综合,http://pullwftv.wftvqcm.com/live/wf1pda.m3u8
+潍坊经济生活,http://pullwftv.wftvqcm.com/live/wf2pda.m3u8
+潍坊影视综艺,http://pullwftv.wftvqcm.com/live/wf3pda.m3u8
+潍坊科教文旅,http://pullwftv.wftvqcm.com/live/wf4pda.m3u8
 潍坊新闻综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000215/index.m3u8
 潍坊经济生活,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000216/index.m3u8
 潍坊影视综艺,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000217/index.m3u8
