@@ -69,7 +69,7 @@ CGTN,http://39.134.144.6:8089/PLTV/88888888/224/3221226320/index.m3u8
 山东新闻,http://39.134.144.6:8089/PLTV/88888888/224/3221226077/index.m3u8
 山东农科,http://39.134.144.6:8089/PLTV/88888888/224/3221226018/index.m3u8
 山东少儿,http://39.134.144.6:8089/PLTV/88888888/224/3221226195/index.m3u8
-山东教育,http://39.134.144.6:8089/PLTV/88888888/224/3221226049/index.m3u8
+山东教育卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226049/index.m3u8
 潍坊新闻综合,http://pullwftv.wftvqcm.com/live/wf1pda.m3u8
 潍坊经济生活,http://pullwftv.wftvqcm.com/live/wf2pda.m3u8
 潍坊影视综艺,http://pullwftv.wftvqcm.com/live/wf3pda.m3u8
