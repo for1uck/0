@@ -130,8 +130,6 @@ CDM,#genre#
 潍坊经济生活,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000216/index.m3u8
 潍坊影视综艺,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000217/index.m3u8
 潍坊科教文旅,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000218/index.m3u8
-
-WRTN,#genre#
 WRTN新闻综合,http://wfrtv-live-tz.wfcmw.cn/live/6yipdxwzb.m3u8
 WRTN时代先锋,http://wfrtv-live-tz.wfcmw.cn/live/7sdxf.m3u8
 WRTN政务民生,http://wfrtv-live-tz.wfcmw.cn/live/10xwplzwms.m3u8
