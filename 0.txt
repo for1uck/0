@@ -42,12 +42,6 @@ CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV4K,https://cntv.sbs/tv?auth=2310201855&id=cctv4k
-CGTN,http://39.134.144.6:8089/PLTV/88888888/224/3221226320/index.m3u8
-CGTN纪录,http://39.134.144.6:8089/PLTV/88888888/224/3221226401/index.m3u8
-CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
-CGTN,http://live.cgtn.com/1000/prog_index.m3u8
-CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-CGTN纪录,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 CDM,#genre#
 世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
@@ -87,6 +81,14 @@ CHC,#genre#
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+
+CGTN,#genre#
+CGTN,http://39.134.144.6:8089/PLTV/88888888/224/3221226320/index.m3u8
+CGTN纪录,http://39.134.144.6:8089/PLTV/88888888/224/3221226401/index.m3u8
+CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
+CGTN,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+CGTN纪录,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 大爱,#genre#
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
