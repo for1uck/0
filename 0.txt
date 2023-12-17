@@ -108,11 +108,6 @@ CDM,#genre#
 潍坊经济生活,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000216/index.m3u8
 潍坊影视综艺,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000217/index.m3u8
 潍坊科教文旅,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000218/index.m3u8
-潍坊新闻综合,rtp://239.253.2.76:8450
-潍坊经济生活,rtp://239.253.2.77:8456
-潍坊影视综艺,rtp://239.253.2.143:9906
-潍坊科教文旅,rtp://239.253.2.144:9912
-昌邑新闻综合,rtp://239.253.2.251:9497
 
 CHC,#genre#
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
