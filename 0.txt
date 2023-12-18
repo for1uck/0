@@ -138,6 +138,22 @@ CDM,#genre#
 高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
 
 山东,#genre#
+山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230626/1.m3u8
+山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230626/1.m3u8
+山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/PLTV/1/224/3221230495/1.m3u8
+山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/PLTV/1/224/3221229851/1.m3u8
+山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/PLTV/1/224/3221230495/1.m3u8
+山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/PLTV/1/224/3221229919/1.m3u8
+山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/PLTV/1/224/3221230596/1.m3u8
+山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/PLTV/1/224/3221230928/1.m3u8
+山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/PLTV/1/224/3221230251/1.m3u8
+山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230386/1.m3u8
+山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/PLTV/1/224/3221230386/1.m3u8
+山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/PLTV/1/224/3221231124/1.m3u8
+山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/PLTV/1/224/3221230994/1.m3u8
+山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/PLTV/1/224/3221230994/1.m3u8
+山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/PLTV/1/224/3221230994/1.m3u8
+山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/PLTV/1/224/3221230994/1.m3u8
 山东卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226144/index.m3u8
 山东齐鲁,http://39.134.144.6:8089/PLTV/88888888/224/3221226045/index.m3u8
 山东体育,http://39.134.144.6:8089/PLTV/88888888/224/3221226075/index.m3u8
@@ -150,12 +166,6 @@ CDM,#genre#
 山东教育,http://39.134.144.6:8089/PLTV/88888888/224/3221226049/index.m3u8
 山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
-
-潍坊,#genre#
-潍坊新闻综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000215/index.m3u8
-潍坊经济生活,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000216/index.m3u8
-潍坊影视综艺,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000217/index.m3u8
-潍坊科教文旅,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000218/index.m3u8
 
 4k,#genre#
 CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_1451729760/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8?icpid=3&RTS=1674379124&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
