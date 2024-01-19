@@ -74,8 +74,22 @@ CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1746687450_313
 CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw1418270804_-738667041/ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8?icpid=3&RTS=1674381533&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228407/index.m3u8
 CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw483903016_-67353299/ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8?icpid=3&RTS=1668595278&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
+CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/PLTV/1/224/3221230974/1.m3u8
 CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-CGTN新闻,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
+CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/PLTV/1/224/3221230974/1.m3u8
+CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221231131/1.m3u8
+CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230960/1.m3u8
+CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230960/1.m3u8
+CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw3737653395_1580816352/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1678665935&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw3005294665_-433598957/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1668606389&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 
 数字,#genre#
 第一剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
