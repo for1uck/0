@@ -792,7 +792,6 @@ CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225745/index.m3u8
 山东｜教育,http://58.57.155.42:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 山东｜潍坊生活,http://qrh.yimkj.cn/山东齐鲁.php?id=wfsh
 山东｜潍坊影视综艺,http://qrh.yimkj.cn/山东齐鲁.php?id=wfyswy
-山东｜潍坊高新区,http://qrh.yimkj.cn/山东齐鲁.php?id=wfgxq
 
 港澳台,#genre#
 凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -807,7 +806,6 @@ CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225745/index.m3u8
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 凤凰香港,http://113.117.74.107:8081/hls/38/index.m3u8
 凤凰香港,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
-亚洲新闻[1280x720],http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -1189,7 +1187,7 @@ CCTV17,https://live3.rxip.sc96655.com/live/CCTV-17_4000.m3u8
 深圳卫视,https://live3.rxip.sc96655.com/live/szwsH265_4000.m3u8
 天津卫视,https://live3.rxip.sc96655.com/live/tjwsH265_4000.m3u8
 浙江卫视,https://live3.rxip.sc96655.com/live/zjwsH265_4000.m3u8
-CETV-1,https://live3.rxip.sc96655.com/live/CETV-1H264_4000.m3u8
+CETV1,https://live3.rxip.sc96655.com/live/CETV-1H264_4000.m3u8
 欢笑剧场,https://live3.rxip.sc96655.com/live/hxjc-4k_8000.m3u8
 CHC动作电影,https://live3.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
 CHC高清电影,https://live3.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
@@ -1198,7 +1196,6 @@ CHC家庭影院,https://live3.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
 法治天地,https://live3.rxip.sc96655.com/live/fztx_4000.m3u8
 金鹰纪实,https://live3.rxip.sc96655.com/live/jyjsHDH265_4000.m3u8
 劲爆体育,https://live3.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8
-快乐119.118.174.252:8888,https://live3.rxip.sc96655.com/live/fyzqklcdHDH265_4000.m3u8
 乐游,https://live3.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8
 梨园频道,https://live3.rxip.sc96655.com/live/ly_4000.m3u8
 魅力足球,https://live3.rxip.sc96655.com/live/mlyy_4000.m3u8
