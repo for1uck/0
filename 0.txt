@@ -247,11 +247,10 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 山东教育卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226049/index.m3u8
 山东卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226144/index.m3u8
 山东卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226495/index.m3u8
-WFTV1,rtp://239.253.2.76:8450
-WFTV2,http://qrh.yimkj.cn/山东齐鲁.php?id=wfsh
-WFTV3,http://qrh.yimkj.cn/山东齐鲁.php?id=wfyswy
-WFTV3,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000215/index.m3u8
-WFTV4,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000216/index.m3u8
+WFTV1,,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000215/index.m3u8
+WFTV2,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000216/index.m3u8
+WFTV3,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000217/index.m3u8
+WFTV4,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000218/index.m3u8
 昌邑新闻综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001083/index.m3u8
 特色,#genre#
 海洋频道,http://39.134.144.6:8089/PLTV/88888888/224/3221226406/index.m3u8
