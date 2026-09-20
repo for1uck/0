@@ -81,6 +81,7 @@ CHC家庭影院,http://39.134.144.6:8089/PLTV/88888888/224/3221226472/index.m3u8
 CHC影迷电影,http://39.134.144.6:8089/PLTV/88888888/224/3221226607/index.m3u8
 都市剧场,http://39.134.144.6:8089/PLTV/88888888/224/3221226450/index.m3u8
 精彩影视,http://39.134.144.6:8089/PLTV/88888888/224/3221226442/index.m3u8
+重温经典,http://8.138.7.223/tv/cwjd.php
 北京纪实,http://39.134.144.6:8089/PLTV/88888888/224/3221226601/index.m3u8
 法治天地,http://39.134.144.6:8089/PLTV/88888888/224/3221226448/index.m3u8
 金色学堂,http://39.134.144.6:8089/PLTV/88888888/224/3221226581/index.m3u8
@@ -91,10 +92,8 @@ CHC影迷电影,http://39.134.144.6:8089/PLTV/88888888/224/3221226607/index.m3u8
 中国交通,http://39.134.144.6:8089/PLTV/88888888/224/3221226478/index.m3u8
 其他,#genre#
 CCTV16,http://A/ku9/js/ysp.js?id=https://yangshipin.cn/tv/home?pid=600098637
-CCTV16-4K,http://A/ku9/js/hnyx.js?id=CCTV16_4K&dur=10.005&offset=163467306
 CCTV第一剧场,http://A/ku9/js/ysp.js?id=https://yangshipin.cn/tv/home?pid=600099655
 CCTV风云剧场,http://A/ku9/js/ysp.js?id=https://yangshipin.cn/tv/home?pid=600099658
-CCTV怀旧剧场,http://A/ku9/js/sp.js?id=https://yangshipin.cn/tv/home?pid=600099620
+CCTV怀旧剧场,http://A/ku9/js/ysp.js?id=https://yangshipin.cn/tv/home?pid=600099620
 Discovering China,https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 China Travel,https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
