@@ -1,4 +1,4 @@
-1#央视,#genre#
+央视,#genre#
 CCTV1,http://39.134.144.6:8089/PLTV/88888888/224/3221225859/index.m3u8
 CCTV1,http://39.134.144.6:8089/PLTV/88888888/224/3221226617/index.m3u8
 CCTV1,http://39.134.144.6:8089/PLTV/88888888/224/3221226750/index.m3u8
@@ -24,7 +24,7 @@ CCTV4美洲,http://39.134.144.6:8089/PLTV/88888888/224/3221226395/index.m3u8
 CCTV4K,http://39.134.144.6:8089/PLTV/88888888/224/3221226615/index.m3u8
 CGTN,http://39.134.144.6:8089/PLTV/88888888/224/3221226320/index.m3u8
 CGTN纪录,http://39.134.144.6:8089/PLTV/88888888/224/3221226401/index.m3u8
-2#卫视,#genre#
+卫视,#genre#
 安徽卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221225775/index.m3u8
 北京卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226146/index.m3u8
 兵团卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226751/index.m3u8
@@ -56,7 +56,7 @@ CGTN纪录,http://39.134.144.6:8089/PLTV/88888888/224/3221226401/index.m3u8
 云南卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226525/index.m3u8
 浙江卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221225585/index.m3u8
 重庆卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226310/index.m3u8
-3#山东,#genre#
+山东,#genre#
 山东卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226144/index.m3u8
 山东卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226722/index.m3u8
 山东农科,http://39.134.144.6:8089/PLTV/88888888/224/3221226018/index.m3u8
@@ -74,7 +74,8 @@ CGTN纪录,http://39.134.144.6:8089/PLTV/88888888/224/3221226401/index.m3u8
 潍坊影视综艺,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000217/index.m3u8
 潍坊科教文旅,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000218/index.m3u8
 昌邑综合频道,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001083/index.m3u8
-4#特色,#genre#
+昌邑经济生活,http://A/ku9/js/qilu.js?id=wfcyjj
+特色,#genre#
 CHC动作电影,http://39.134.144.6:8089/PLTV/88888888/224/3221226474/index.m3u8
 CHC家庭影院,http://39.134.144.6:8089/PLTV/88888888/224/3221226472/index.m3u8
 CHC影迷电影,http://39.134.144.6:8089/PLTV/88888888/224/3221226607/index.m3u8
@@ -88,7 +89,12 @@ CHC影迷电影,http://39.134.144.6:8089/PLTV/88888888/224/3221226607/index.m3u8
 生活时尚,http://39.134.144.6:8089/PLTV/88888888/224/3221226579/index.m3u8
 中国交通,http://39.134.144.6:8089/PLTV/88888888/224/3221226295/index.m3u8
 中国交通,http://39.134.144.6:8089/PLTV/88888888/224/3221226478/index.m3u8
-5#其他,#genre#
+其他,#genre#
+CCTV16,http://A/ku9/js/ysp.js?id=https://yangshipin.cn/tv/home?pid=600098637
+CCTV16-4K,http://A/ku9/js/hnyx.js?id=CCTV16_4K&dur=10.005&offset=163467306
+CCTV第一剧场,http://A/ku9/js/ysp.js?id=https://yangshipin.cn/tv/home?pid=600099655
+CCTV风云剧场,http://A/ku9/js/ysp.js?id=https://yangshipin.cn/tv/home?pid=600099658
+CCTV怀旧剧场,http://A/ku9/js/sp.js?id=https://yangshipin.cn/tv/home?pid=600099620
 Discovering China,https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 China Travel,https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
