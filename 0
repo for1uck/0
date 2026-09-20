@@ -69,19 +69,17 @@ CGTN纪录,http://39.134.144.6:8089/PLTV/88888888/224/3221226401/index.m3u8
 山东新闻,http://39.134.144.6:8089/PLTV/88888888/224/3221226077/index.m3u8
 山东综艺,http://39.134.144.6:8089/PLTV/88888888/224/3221225855/index.m3u8
 山东教育卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226049/index.m3u8
-4#潍坊,#genre#
 潍坊新闻综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000215/index.m3u8
 潍坊经济生活,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000216/index.m3u8
 潍坊影视综艺,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000217/index.m3u8
 潍坊科教文旅,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000218/index.m3u8
 昌邑综合频道,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001083/index.m3u8
-5#影视,#genre#
+4#特色,#genre#
 CHC动作电影,http://39.134.144.6:8089/PLTV/88888888/224/3221226474/index.m3u8
 CHC家庭影院,http://39.134.144.6:8089/PLTV/88888888/224/3221226472/index.m3u8
 CHC影迷电影,http://39.134.144.6:8089/PLTV/88888888/224/3221226607/index.m3u8
 都市剧场,http://39.134.144.6:8089/PLTV/88888888/224/3221226450/index.m3u8
 精彩影视,http://39.134.144.6:8089/PLTV/88888888/224/3221226442/index.m3u8
-6#特色,#genre#
 北京纪实,http://39.134.144.6:8089/PLTV/88888888/224/3221226601/index.m3u8
 法治天地,http://39.134.144.6:8089/PLTV/88888888/224/3221226448/index.m3u8
 金色学堂,http://39.134.144.6:8089/PLTV/88888888/224/3221226581/index.m3u8
@@ -90,3 +88,7 @@ CHC影迷电影,http://39.134.144.6:8089/PLTV/88888888/224/3221226607/index.m3u8
 生活时尚,http://39.134.144.6:8089/PLTV/88888888/224/3221226579/index.m3u8
 中国交通,http://39.134.144.6:8089/PLTV/88888888/224/3221226295/index.m3u8
 中国交通,http://39.134.144.6:8089/PLTV/88888888/224/3221226478/index.m3u8
+5#其他,#genre#
+Discovering China,https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
+China Travel,https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
